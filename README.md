@@ -1,11 +1,11 @@
-# Hi, I'm Shabnam! 👋
-### 💻 Computer Engineering Student at BHOS
+# Hi, I'm Shabnam Alizada 👋
+Computer Engineering Student | Baku Higher Oil School
 
-I am a technical problem-solver focused on **Numerical Methods**, **Algorithm Design**, and **Software Systems**. Currently maintaining a **88.57 GPA** and building a portfolio of engineering solutions.
+### Languages
+C, C++, C#, Python
 
-* 🔭 **Currently working on:** Advanced Numerical Analysis and Game AI.
-* 🛠 **Tech Stack:** C++, Python (NumPy), C# (Unity), SQL.
-* 🎓 **Education:** 3rd-year Computer Engineering, Baku Higher Oil School.
+### Tools & Frameworks
+Unity, Visual Studio, .NET, GitHub
 
-
-[mail](shabnam.alizada.std@bhos.edu.az)
+### Concepts
+Data Structures, OOP, Memory Management, Game Development
